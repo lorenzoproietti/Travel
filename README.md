@@ -1,2 +1,2 @@
-# Lab-Sicurezza-Informatica
-Progetto per il Laboratorio di Applicazioni Software e Sicurezza Informatica 
+# Travel
+The website developed gives the possibility to users to obtain information regarding places of interest, which will have to be uploaded in the system by other users, i.e. the owners of the aforementioned places. In addition to everything what concerns the evaluation of the places visited by users, a map service is also available through which they can reach the point of interest, based on the data registered by the owners. High level descriptions of the website can be found in the *Doc/* folder.
